@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob6_1\prob6_1\bin\Debug\prob6_1.exe.config
+C:\Users\user\Desktop\prob6_1\prob6_1\bin\Debug\prob6_1.exe
+C:\Users\user\Desktop\prob6_1\prob6_1\bin\Debug\prob6_1.pdb
+C:\Users\user\Desktop\prob6_1\prob6_1\obj\Debug\prob6_1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob6_1\prob6_1\obj\Debug\prob6_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob6_1\prob6_1\obj\Debug\prob6_1.exe
+C:\Users\user\Desktop\prob6_1\prob6_1\obj\Debug\prob6_1.pdb
